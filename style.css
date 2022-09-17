@@ -1,0 +1,13 @@
+.card {
+  margin: 10px 5px;
+  padding: 0px;
+  
+}
+
+.user-img:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+html{
+  scroll-behavior: unset;
+}
